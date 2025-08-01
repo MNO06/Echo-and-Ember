@@ -112,3 +112,26 @@ p3{
   font-style: normal;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  padding: 2rem;
+}
+
+/* Footer styles */
+footer {
+  background: #28374f;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
