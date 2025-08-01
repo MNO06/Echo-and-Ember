@@ -1,0 +1,114 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #9EABBA;
+  color: #333;
+}
+
+nav {
+  background:#28374f;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+    font-size: 200%;
+    font-family: "Italiana", sans-serif;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.centered {
+  max-width: 80%;
+  margin: 2em auto;
+  text-align: center;
+  padding: 1em;
+}
+
+.logo {
+  max-width: 100%;
+  margin-bottom: 1em;
+}
+
+form input, form textarea {
+  width: 90%;
+  margin: 0.5em 0;
+  padding: 0.5em;
+  border: 1px solid #28374f;
+  border-radius: 5px;
+}
+
+button {
+  padding: 0.7em 1.5em;
+  background: #28374f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+h1{
+    color: #28374f;
+     font-size: 400%;
+    font-family: "Kaushan Script";
+}
+p{
+    font-size: 200%;
+    color:#28374f;
+    font-family: "Italiana", sans-serif; 
+}
+.kaushan-script-regular {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.italiana-regular {
+  font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pics{
+    float: center;
+    max-height: 20%;
+}
+footer {
+  text-align: center;
+  padding: 2em 0;
+  background: #28374f;
+  font-size: 0.9em;
+}
+
+.socials a {
+  margin: 0 10px;
+  color: #9EABBA;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+}
+p2{
+    font-size: 200%;
+    color:#9EABBA;
+    font-family: "Italiana", sans-serif; 
+}
+.socials a:hover {
+  color: #000;
+}
+p3{
+    font-family: "Bentham", serif;
+    font-size: 125%;
+    color: #28374f;
+    text-align: left;
+}
+.bentham-regular {
+  font-family: "Bentham", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
